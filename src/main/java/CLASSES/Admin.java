@@ -27,4 +27,5 @@ public class Admin {
     public static String getPassword() {
         return password;
     }
+    //chr=eck
 }
